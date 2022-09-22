@@ -4,7 +4,7 @@ import org.jnativehook.keyboard.NativeKeyEvent;
 import org.jnativehook.keyboard.NativeKeyListener;
 
 /**
- * Main THis is key Logger Program The state are comming in log
+ * Main THis is key Logger Program The data are coming in log
  */
 public class Main implements NativeKeyListener  {
 
